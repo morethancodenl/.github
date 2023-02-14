@@ -9,3 +9,7 @@ More Than Code (MTC) is a development group that provides free and paid (open) s
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tWMvPtq8uu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/morethancodenl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/morethancodenl)
+
+## 👨‍💻 Meet some nerds
+ - [Mitchel](https://github.com/Mitchel) *(Owner and Developer)*
+ - [Thijmen](https://github.com/legende11) *(Owner and Developer)*
