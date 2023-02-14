@@ -11,5 +11,7 @@ More Than Code (MTC) is a development group that provides free and paid (open) s
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/morethancodenl)
 
 ## 👨‍💻 Meet some nerds
+Sometimes you may run into them within our or another FiveM related community, but we also like to put them in the spotlight. Meet our nerds (the team at MTC).
+
  - [Mitchel](https://github.com/Mitchel) *(Owner and Developer)*
  - [Thijmen](https://github.com/legende11) *(Owner and Developer)*
