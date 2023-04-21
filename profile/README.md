@@ -18,4 +18,4 @@ We currently have several free and paid releases.
 Sometimes you may run into them within our or another FiveM related community, but we also like to put them in the spotlight. Meet our nerds (the team at MTC).
 
  - [Mitchel](https://github.com/Mitchel) *(Owner and Developer)*
- - [Thijmen](https://github.com/legende11) *(Owner and Developer)*
+ - [Thijmen](https://github.com/NietThijmen) *(Owner and Developer)*
