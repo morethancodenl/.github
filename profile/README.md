@@ -13,7 +13,8 @@ We currently have several free and paid releases.
  - [Polaroid Camera for QBCore and QBox](https://github.com/morethancodenl/mtc-camera) *(Free)*
 
 ## 👉 Join our community
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cFuv5BMWzK)
+
+[![Discord](https://discord.com/api/guilds/1075048579758035014/widget.png?style=banner2)](https://discord.gg/cFuv5BMWzK)
 
 ## 👨‍💻 Meet some nerds
 Sometimes you may run into them within our or another FiveM related community, but we also like to put them in the spotlight. Meet our nerds (the team at MTC).
