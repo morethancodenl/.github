@@ -12,6 +12,8 @@ We currently have several free and paid releases.
 - [Cityhall for QBCore and QBox](https://github.com/morethancodenl/mtc-cityhall) *(Free)*
 - [Moneywash for QBCore and QBox](https://github.com/morethancodenl/mtc-moneywash) *(Free)*
 - [Polaroid Camera for QBCore and QBox](https://github.com/morethancodenl/mtc-camera) *(Free)*
+- [Vehicle Rental for QBCore and QBox](https://github.com/morethancodenl/mtc-vehiclerental) *(Free)*
+- [Arcade for QBCore and Qbox](https://github.com/morethancodenl/mtc-arcade) *(free)*
 
 ## 👉 Join our community
 
