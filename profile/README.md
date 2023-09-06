@@ -7,10 +7,11 @@ More Than Code (MTC) is a development group that provides free and paid (open) s
 
 ## 💻 Products
 We currently have several free and paid releases.
- - [Crafting for QBCore](https://mtc.tebex.io/package/5529409) *(Paid)*
- - [Cityhall for QBCore and QBox](https://github.com/morethancodenl/mtc-cityhall) *(Free)*
- - [Moneywash for QBCore and QBox](https://github.com/morethancodenl/mtc-moneywash) *(Free)*
- - [Polaroid Camera for QBCore and QBox](https://github.com/morethancodenl/mtc-camera) *(Free)*
+- [Vehicle Control - Standalone](https://mtc.tebex.io/package/5863758) *(Paid)*
+- [Crafting for QBCore](https://mtc.tebex.io/package/5529409) *(Paid)*
+- [Cityhall for QBCore and QBox](https://github.com/morethancodenl/mtc-cityhall) *(Free)*
+- [Moneywash for QBCore and QBox](https://github.com/morethancodenl/mtc-moneywash) *(Free)*
+- [Polaroid Camera for QBCore and QBox](https://github.com/morethancodenl/mtc-camera) *(Free)*
 
 ## 👉 Join our community
 
