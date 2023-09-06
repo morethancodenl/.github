@@ -14,6 +14,7 @@ We currently have several free and paid releases.
 - [Polaroid Camera for QBCore and QBox](https://github.com/morethancodenl/mtc-camera) *(Free)*
 - [Vehicle Rental for QBCore and QBox](https://github.com/morethancodenl/mtc-vehiclerental) *(Free)*
 - [Arcade for QBCore and Qbox](https://github.com/morethancodenl/mtc-arcade) *(free)*
+- [Scenes for QBCore and Qbox](https://github.com/morethancodenl/mtc-scenes) *(free)*
 
 ## 👉 Join our community
 
