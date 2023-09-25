@@ -7,14 +7,16 @@ More Than Code (MTC) is a development group that provides free and paid (open) s
 
 ## 💻 Products
 We currently have several free and paid releases.
-- [Vehicle Control - Standalone](https://mtc.tebex.io/package/5863758) *(Paid)*
-- [Crafting for QBCore](https://mtc.tebex.io/package/5529409) *(Paid)*
-- [Cityhall for QBCore and QBox](https://github.com/morethancodenl/mtc-cityhall) *(Free)*
-- [Moneywash for QBCore and QBox](https://github.com/morethancodenl/mtc-moneywash) *(Free)*
-- [Polaroid Camera for QBCore and QBox](https://github.com/morethancodenl/mtc-camera) *(Free)*
-- [Vehicle Rental for QBCore and QBox](https://github.com/morethancodenl/mtc-vehiclerental) *(Free)*
-- [Arcade for QBCore and Qbox](https://github.com/morethancodenl/mtc-arcade) *(free)*
-- [Scenes for QBCore and Qbox](https://github.com/morethancodenl/mtc-scenes) *(free)*
+
+| Free    | Paid |
+| -------- | ------- |
+| [Cityhall](https://github.com/morethancodenl/mtc-cityhall)  | [Vehicle Control](https://mtc.tebex.io/package/5863758)    |
+| [Moneywash](https://github.com/morethancodenl/mtc-moneywash) | [Crafting](https://mtc.tebex.io/package/5529409)     |
+| [Polaroid Camera](https://github.com/morethancodenl/mtc-camera)    |     |
+| [Vehicle Rental](https://github.com/morethancodenl/mtc-vehiclerental)    |     |
+| [Arcade](https://github.com/morethancodenl/mtc-arcade)    |     |
+| [Scenes](https://github.com/morethancodenl/mtc-scenes)    |     |
+
 
 ## 👉 Join our community
 
