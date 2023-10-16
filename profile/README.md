@@ -8,17 +8,14 @@ More Than Code *(MTC)* stands as a dynamic and dedicated development collective,
 ## 💻 Products
 We currently have several free and paid releases.
 
-**Free**
-- [Cityhall](https://github.com/morethancodenl/mtc-cityhall)
-- [Moneywash](https://github.com/morethancodenl/mtc-moneywash)
-- [Polaroid Camera](https://github.com/morethancodenl/mtc-camera)
-- [Vehicle Rental](https://github.com/morethancodenl/mtc-vehiclerental)
-- [Arcade](https://github.com/morethancodenl/mtc-arcade)
-- [Scenes](https://github.com/morethancodenl/mtc-scenes) 
-
-**Paid**
-- [Vehicle Control](https://mtc.tebex.io/package/5863758)
-- [Crafting](https://mtc.tebex.io/package/5529409)
+- [Cityhall](https://github.com/morethancodenl/mtc-cityhall) *(free resource)*
+- [Moneywash](https://github.com/morethancodenl/mtc-moneywash) *(free resource)*
+- [Polaroid Camera](https://github.com/morethancodenl/mtc-camera) *(free resource)*
+- [Vehicle Rental](https://github.com/morethancodenl/mtc-vehiclerental) *(free resource)*
+- [Arcade](https://github.com/morethancodenl/mtc-arcade) *(free resource)*
+- [Scenes](https://github.com/morethancodenl/mtc-scenes)  *(free resource)*
+- [Vehicle Control](https://mtc.tebex.io/package/5863758) *(paid resource)*
+- [Crafting](https://mtc.tebex.io/package/5529409) *(paid resource)*
 
 ## 👉 Join our community
 
