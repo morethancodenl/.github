@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="600" src="https://i.imgur.com/mHjFB7l.png">
-</p>
+![banner](https://i.imgur.com/ufCTDaz.jpg)
 
 ## 👋 Let's get acquainted
 More Than Code (MTC) is a development group that provides free and paid (open) source code to the FiveM community. We pride ourselves on always improving the way we develop and hope to pass that knowledge on to our community!
