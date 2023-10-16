@@ -1,20 +1,24 @@
 ![banner](https://i.imgur.com/ufCTDaz.jpg)
 
 ## 👋 Let's get acquainted
-More Than Code (MTC) is a development group that provides free and paid (open) source code to the FiveM community. We pride ourselves on always improving the way we develop and hope to pass that knowledge on to our community!
+More Than Code *(MTC)* stands as a dynamic and dedicated development collective, offering a wide range of advanced, high-quality resources to the vibrant FiveM community. Our commitment to excellence extends to both free and paid *(open)* source offerings, designed to cater to a diverse array of needs within the community. Our primary goal is not only to enhance the experiences of our users but also to share our knowledge with the community at large.
+
+*In conclusion*, More Than Code is not merely a development group; it's a passionate community-driven force dedicated to propelling FiveM to new heights. Through our unwavering commitment to excellence, innovative spirit, and a strong desire to share knowledge, we look forward to making an indelible mark on the FiveM landscape, inspiring others to join us on this exciting journey of development and collaboration.
 
 ## 💻 Products
 We currently have several free and paid releases.
 
-| Free    | Paid |
-| -------- | ------- |
-| [Cityhall](https://github.com/morethancodenl/mtc-cityhall)  | [Vehicle Control](https://mtc.tebex.io/package/5863758)    |
-| [Moneywash](https://github.com/morethancodenl/mtc-moneywash) | [Crafting](https://mtc.tebex.io/package/5529409)     |
-| [Polaroid Camera](https://github.com/morethancodenl/mtc-camera)    |     |
-| [Vehicle Rental](https://github.com/morethancodenl/mtc-vehiclerental)    |     |
-| [Arcade](https://github.com/morethancodenl/mtc-arcade)    |     |
-| [Scenes](https://github.com/morethancodenl/mtc-scenes)    |     |
+**Free**
+- [Cityhall](https://github.com/morethancodenl/mtc-cityhall)
+- [Moneywash](https://github.com/morethancodenl/mtc-moneywash)
+- [Polaroid Camera](https://github.com/morethancodenl/mtc-camera)
+- [Vehicle Rental](https://github.com/morethancodenl/mtc-vehiclerental)
+- [Arcade](https://github.com/morethancodenl/mtc-arcade)
+- [Scenes](https://github.com/morethancodenl/mtc-scenes) 
 
+**Paid**
+- [Vehicle Control](https://mtc.tebex.io/package/5863758)
+- [Crafting](https://mtc.tebex.io/package/5529409)
 
 ## 👉 Join our community
 
