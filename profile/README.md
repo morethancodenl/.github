@@ -29,3 +29,4 @@ Sometimes you may run into them within our or another FiveM related community, b
 
  - [Mitchel](https://github.com/Mitchel) *(Owner and Developer)*
  - [Thijmen](https://github.com/NietThijmen) *(Owner and Developer)*
+ - [Timothy](https://github.com/Timothy-Dylan) *(Developer)*
