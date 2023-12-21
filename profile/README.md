@@ -16,6 +16,7 @@ We currently have several free and paid releases.
 - [Vehicle Rental](https://github.com/morethancodenl/mtc-vehiclerental) *(free resource)*
 - [Arcade](https://github.com/morethancodenl/mtc-arcade) *(free resource)*
 - [Scenes](https://github.com/morethancodenl/mtc-scenes)  *(free resource)*
+- [Loadingscreen](https://github.com/morethancodenl/mtc-loadingscreen) *(free resource)*
  
 - [Vehicle Control](https://mtc.tebex.io/package/5863758) *(paid resource)*
 - [Crafting](https://mtc.tebex.io/package/5529409) *(paid resource)*
@@ -27,6 +28,6 @@ We currently have several free and paid releases.
 ## 👨‍💻 Meet some nerds
 Sometimes you may run into them within our or another FiveM related community, but we also like to put them in the spotlight. Meet our nerds (the team at MTC).
 
- - [Mitchel](https://github.com/Mitchel) *(Owner and Developer)*
- - [Thijmen](https://github.com/NietThijmen) *(Owner and Developer)*
+ - [Mitchel](https://github.com/Mitchel) *(Founder and Developer)*
+ - [Thijmen](https://github.com/NietThijmen) *(Founder and Developer)*
  - [Timothy](https://github.com/Timothy-Dylan) *(Developer)*
