@@ -28,6 +28,5 @@ We currently have several free and paid releases.
 ## 👨‍💻 Meet some nerds
 Sometimes you may run into them within our or another FiveM related community, but we also like to put them in the spotlight. Meet our nerds (the team at MTC).
 
- - [Mitchel](https://github.com/Mitchel) *(Founder and Developer)*
  - [Thijmen](https://github.com/NietThijmen) *(Founder and Developer)*
  - [Timothy](https://github.com/Timothy-Dylan) *(Developer)*
