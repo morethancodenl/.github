@@ -17,7 +17,7 @@ We currently have several free and paid releases.
 - [Arcade](https://github.com/morethancodenl/mtc-arcade) *(free resource)*
 - [Scenes](https://github.com/morethancodenl/mtc-scenes)  *(free resource)*
 - [Loadingscreen](https://github.com/morethancodenl/mtc-loadingscreen) *(free resource)*
-- [Fakecards]([httpsL](https://github.com/morethancodenl/mtc-fakecards)) *(free resource)*
+- [Fakecards]([httpsL](https://github.com/morethancodenl/mtc-fakecards) *(free resource)*
  
 - [Vehicle Control](https://mtc.tebex.io/package/5863758) *(paid resource)*
 - [Crafting](https://mtc.tebex.io/package/5529409) *(paid resource)*
